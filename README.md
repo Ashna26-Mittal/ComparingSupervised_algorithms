@@ -4,7 +4,7 @@ The Tumor Detection Project is a Python-based initiative aimed at harnessing the
 # Overview
 Tumor detection is a critical component of medical diagnostics, influencing the course of treatment and patient prognosis. The ability to automate and optimize this process using machine learning algorithms holds the potential to expedite diagnosis, reduce human error, and enhance the overall efficiency of healthcare systems.
 
-# Objectives:
+# Objectives
 Algorithmic Comparison: Evaluate and compare the accuracy of Logistic Regression, Decision Tree Classifier, Random Forest Classifier, and Support Vector Classifier for tumor detection.
 
 Data Processing: Employ standard data preprocessing techniques, including cleaning and scaling, to ensure the algorithms receive high-quality input.
@@ -35,7 +35,7 @@ To run this project, one needs the following dependencies:
 - Seaborn
 - scikit-learn
 
-# Files and Directories:
+# Files and Directories
 
 1. **main.py:**
    This is the main Python script that implements tumor detection using various supervised learning algorithms.
