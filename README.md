@@ -77,7 +77,7 @@ Replace \<branch-name> with a descriptive name for your changes, such as "fix-bu
 3. Make Your Changes and Commit Them
 Make the desired changes to the project files within your branch. Once you've made your changes, commit them using the following command:
 ![image](https://github.com/Ashna26-Mittal/ComparingSupervised_algorithms/assets/138122673/4d0bdff8-8678-4b33-a0f5-e33b7e450977)
-Replace <filename1>, <filename2>, etc., with the names of the files you've changed. Replace <commit message> with a clear and concise description of the changes you've made.
+Replace \<filename1>, \<filename2>, etc., with the names of the files you've changed. Replace \<commit message> with a clear and concise description of the changes you've made.
 
 4. Push to Your Branch
 After committing your changes, push them to your fork on GitHub using the following command:
