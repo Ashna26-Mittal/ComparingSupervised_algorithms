@@ -51,3 +51,16 @@ To run this project, one needs the following dependencies:
 
 # Usage
 The script will train and test the tumor detection algorithms, and the accuracy results will be displayed in the console. Additionally, the project may generate visual outputs or logs, depending on the implementation. Explore the code in main.py for more details on the algorithms used and any additional functionality provided.
+
+# Results
+The results of this project suggest that logistic regression and support vector machine are promising algorithms for tumor detection. However, it is important to note that the performance of any machine learning algorithm is dependent on the specific dataset used. Therefore, it is always recommended to test and evaluate different algorithms on a variety of datasets to determine the best algorithm for a particular application.
+
+# Additional Analysis
+The results presented above provide a general overview of the performance of the different algorithms. However, a more detailed analysis of the results can be conducted by examining the precision-recall (PR) curves and ROC curves for each algorithm.
+
+A PR curve plots the precision against recall for different thresholds of the classifier's output. A higher PR curve indicates that the algorithm is able to correctly identify true positives (tumors) without a large number of false positives (non-tumors). ROC curve plots the true positive rate against the false positive rate for different thresholds of the classifier's output. A higher ROC curve indicates that the algorithm is able to distinguish between true positives and false positives with a high degree of accuracy.
+
+By examining the PR curves and ROC curves, it is possible to gain a deeper understanding of the strengths and weaknesses of each algorithm. This information can be used to select the most appropriate algorithm for a particular application.
+
+# Conclusion
+The results of this study demonstrate that supervised learning algorithms can be used effectively for tumor detection. It is important to note that the performance of any machine learning algorithm is dependent on the specific dataset used. Therefore, it is always recommended to test and evaluate different algorithms on a variety of datasets to determine the best algorithm for a particular application.
