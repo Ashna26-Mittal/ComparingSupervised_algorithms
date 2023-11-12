@@ -19,9 +19,11 @@ To set up the Team Rocketry Website locally on your machine, follow these steps:
 
 1. Clone the Repository:
 Open a terminal and run the following command to clone the repository to your local machine:
+
 ![image](https://github.com/Ashna26-Mittal/ComparingSupervised_algorithms/assets/138122673/ab2de75f-d32f-474a-8921-c801ffe31e07)
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+
 ![image](https://github.com/Ashna26-Mittal/ComparingSupervised_algorithms/assets/138122673/49607810-eaad-4c02-9da1-2571b452c6ec)
 
 # Dependencies
