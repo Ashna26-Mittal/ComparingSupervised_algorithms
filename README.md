@@ -64,3 +64,27 @@ By examining the PR curves and ROC curves, it is possible to gain a deeper under
 
 # Conclusion
 The results of this study demonstrate that supervised learning algorithms can be used effectively for tumor detection. It is important to note that the performance of any machine learning algorithm is dependent on the specific dataset used. Therefore, it is always recommended to test and evaluate different algorithms on a variety of datasets to determine the best algorithm for a particular application.
+# How To Contribute
+We welcome contributions from the community to enhance and improve our project. If you're interested in contributing, please follow these guidelines:
+1. Fork the Project
+The first step is to fork the project on GitHub. This creates a copy of the project repository in your own account, allowing you to make changes without affecting the original project. To fork the project, go to the project's GitHub page and click the "Fork" button in the top right corner.
+
+2. Create a New Branch
+Once you've forked the project, create a new branch for your changes. This will isolate your work from the main branch of the project, preventing any conflicts with other contributors. To create a new branch, open your local copy of the project repository and use the following command:
+![image](https://github.com/Ashna26-Mittal/ComparingSupervised_algorithms/assets/138122673/8926e118-328d-45b2-8d4a-c6be01f2702d)
+Replace <branch-name> with a descriptive name for your changes, such as "fix-bug-xyz" or "enhance-feature-abc".
+
+3. Make Your Changes and Commit Them
+Make the desired changes to the project files within your branch. Once you've made your changes, commit them using the following command:
+![image](https://github.com/Ashna26-Mittal/ComparingSupervised_algorithms/assets/138122673/4d0bdff8-8678-4b33-a0f5-e33b7e450977)
+Replace <filename1>, <filename2>, etc., with the names of the files you've changed. Replace <commit message> with a clear and concise description of the changes you've made.
+
+4. Push to Your Branch
+After committing your changes, push them to your fork on GitHub using the following command:
+![image](https://github.com/Ashna26-Mittal/ComparingSupervised_algorithms/assets/138122673/1998f9eb-093d-4c88-be4e-3c91bc586286)
+This will push your changes to your personal repository on GitHub, making them available for review by the project maintainers.
+
+5. Submit a Pull Request
+Once you've pushed your changes to your fork, go to your fork's GitHub page and click the "Pull requests" tab. Click the "New pull request" button and select your branch from the "Compare" dropdown menu. Review the changes you've made and provide a clear description of your contribution in the "Pull request description" box. Click the "Create pull request" button to submit your pull request.
+
+The project maintainers will review your pull request and provide feedback or suggestions. If the changes are deemed acceptable, they will merge your branch into the main branch of the project.
