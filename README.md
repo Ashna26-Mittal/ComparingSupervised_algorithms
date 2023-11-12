@@ -72,7 +72,7 @@ The first step is to fork the project on GitHub. This creates a copy of the proj
 2. Create a New Branch
 Once you've forked the project, create a new branch for your changes. This will isolate your work from the main branch of the project, preventing any conflicts with other contributors. To create a new branch, open your local copy of the project repository and use the following command:
 ![image](https://github.com/Ashna26-Mittal/ComparingSupervised_algorithms/assets/138122673/8926e118-328d-45b2-8d4a-c6be01f2702d)
-Replace <branch-name> with a descriptive name for your changes, such as "fix-bug-xyz" or "enhance-feature-abc".
+Replace \<branch-name> with a descriptive name for your changes, such as "fix-bug-xyz" or "enhance-feature-abc".
 
 3. Make Your Changes and Commit Them
 Make the desired changes to the project files within your branch. Once you've made your changes, commit them using the following command:
